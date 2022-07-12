@@ -25,3 +25,5 @@ this is weather app using django framework..
 
 8.output : 
 ![weather](https://user-images.githubusercontent.com/98692616/178445254-77e8f1b2-99c2-474e-b39a-37e0873c56ea.png)
+
+for any query connect to linkedin www.linkedin.com/in/ashishggaikwad
