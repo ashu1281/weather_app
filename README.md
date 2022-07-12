@@ -24,8 +24,4 @@ this is weather app using django framework..
 7. head over the  http://127.0.0.1:8000/  to see output window 
 
 8.output : 
-
-<img width="832" alt="image" src="https://user-images.githubusercontent.com/66414385/170849238-ae257bc7-591a-40a0-be1a-6756b9380f64.png">
-
-
-
+![weather](https://user-images.githubusercontent.com/98692616/178445254-77e8f1b2-99c2-474e-b39a-37e0873c56ea.png)
