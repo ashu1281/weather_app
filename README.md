@@ -4,7 +4,7 @@ this is weather app using django framework..
 ### To run this project 
 
 1. clone this project using 
-      ```git clone https://github.com/shubhamAW/weather_app.git ```
+      ```git clone https://github.com/ashu1281/weather_app.git ```
       
 2. now go to this folder by using 
       ```cd weather_app```
